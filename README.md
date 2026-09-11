@@ -134,6 +134,11 @@ enquanto a imagem carrega.
 
 ---
 
+## Ver o site rodando
+
+Acesse: https://orient-landing-page-main.vercel.app/
+
+
 ## Créditos
 
 Código, imagens, vídeos e os prompts usados como ponto de partida vieram do
